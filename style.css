@@ -1,0 +1,60 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+ul li {
+  float: left;
+  list-style: none;
+  margin: 10px;
+  border-bottom: 1px solid black;
+}
+#lista_cabeza {
+  background-color: rgb(182, 58, 58);
+  height: 50px;
+}
+#cuerpo_pagina {
+  background-color: gray;
+  
+}
+.clearfix {
+  clear: both;
+}
+nav {
+  background: cornflowerblue;
+  height: 50px;
+  border: 1px solid black;
+}
+#content {
+  float: left;
+  width: 80%;
+  background: lightgreen;
+}
+#barra_lateral {
+  float: right;
+  width: 20%;
+  background: rgb(248, 79, 0);
+  height: 801px;
+
+}
+#pie {
+  text-align: center;
+  color: white;
+  background: black;
+}
+p {
+  text-align: justify;
+  margin: 20px;
+}
+h2 {
+  margin: 10px;
+}
+time {
+  margin: 10px;
+}
+h3 {
+  margin: 10px;
+}
+form{
+margin: 20px;
+
